@@ -1,0 +1,7 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.zhf.libraryb" >
+
+    <application>
+        <activity android:name=".BMoudleActivity" />
+    </application>
+</manifest>
